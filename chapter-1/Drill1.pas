@@ -1,6 +1,6 @@
 {---------DRILL 1-1 --------------------}
 
-program Drill1;
+program Drill1(output);
 begin
     writeln('Wordware Publishing, Inc.');
     writeln('--------------------------');
