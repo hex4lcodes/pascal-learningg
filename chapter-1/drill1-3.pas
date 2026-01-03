@@ -1,6 +1,6 @@
 {---------DRILL 1-3 --------------------}
 
-program Drill3;
+program Drill3(output);
 begin
     {----part a----}
     writeln(15-15 div 15);
