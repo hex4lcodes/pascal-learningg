@@ -1,7 +1,7 @@
 
 {---------DRILL 1-2 --------------------}
 
-program Drill2;
+program Drill2(output);
 begin
     {--part a---}
     writeln(144/12);
