@@ -1,7 +1,9 @@
-program HelloWorld;
-begin
-    var
+program VariableDrill;
+
+var
     a,b :integer;
+
+begin
 
     a := 2;
     b := 9;
