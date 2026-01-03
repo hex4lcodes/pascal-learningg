@@ -1,4 +1,4 @@
-program VariableDrill;
+program VariableDrill(output);
 
 var
     a,b :integer;
