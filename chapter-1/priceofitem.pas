@@ -8,7 +8,7 @@ begin
     readln(price);
 
     saletax := price * 0.08;
-    total := price * saletax;
+    total := price + saletax;
 
     writeln('Subtotal:    ', price :0:2);
     writeln('-----------------');
