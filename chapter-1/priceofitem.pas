@@ -1,4 +1,4 @@
-program PriceofanItem;
+program PriceofanItem(input,output);
 
 var
    price, saletax, total :real;
