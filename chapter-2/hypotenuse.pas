@@ -1,5 +1,5 @@
 
-program Hypotenuse;
+program Hypotenuse(input,output);
 
 var
 a,b,c :real;
