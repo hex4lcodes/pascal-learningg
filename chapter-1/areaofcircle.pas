@@ -1,4 +1,4 @@
-program AreaofCircle;
+program AreaofCircle(input,output);
 
 var
    pi,area,radius :real;
