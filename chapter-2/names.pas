@@ -10,7 +10,7 @@ begin
     writeln('Enter your middle name (include a space at the end for later): ');
     readln(middle);
 
-    writeln('Enter your last name (include a space at the end for later): ');
+    writeln('Enter your last name: ');
     readln(last);
     
 
